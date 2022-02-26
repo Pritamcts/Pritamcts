@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    width="300"
-    height="300"
-    src=""
+    width="700"
+    height="100"
+    src="https://github.com/Pritamcts/Pritamcts/blob/main/Me2.gif"
   >
 </p>
 <h1 align="center">Hi 👋, I'm Pritam roy</h1>
