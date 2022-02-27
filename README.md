@@ -11,7 +11,7 @@
     src="https://github.com/Pritamcts/Pritamcts/blob/main/Me2.gif"
   >
 </p>
-<h1 align="center">Hi 👋, I'm Pritam roy</h1>
+<!--<h1 align="center">Hi 👋, I'm Pritam roy</h1>-->
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://github.com/Pritamcts/Pritamcts/blob/main/IconMe.gif">
 
