@@ -17,11 +17,11 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=pritamcts&label=Profile%20views&color=0e75b6&style=flat" alt="pritamcts"  /> </p>
 
-- 🌱 I’m currently learning **Java,js**
+- 🌱 I’m currently learning **python,js**
 
 - 💬 Ask me about **Front-end Development,Video editing**
 
-- 📫 How to reach me **pritamgublu@gmail.com**
+- 📫 How to reach me **pritamroy200126@gmail.com**
 
 - ⚡ Fun fact **FORmula TRANslation or known as FORTRAN, is the first name of the programming language. It was developed by Jack Backus, along with his team in IBM, in the 1950s**
 
