@@ -1,4 +1,4 @@
-# Hi there, I'm Pritam 👋
+# Hi there, I'm Pritam 
 
 <div align="center">
   <img src="header_1.png" alt="Header Banner" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a dedicated **Software Developer** currently contributing to technology solutions at CID West Bengal. My primary focus lies in architecting intelligent systems and scalable applications that solve real-world problems.
 
