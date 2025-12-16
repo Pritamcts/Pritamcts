@@ -37,7 +37,7 @@ I blend analytical thinking with creative problem-solving to deliver robust digi
   <table>
     <tr>
       <td><strong>AI/ML Stack</strong></td>
-      <td>Python, OpenAI, LangChain, Scikit-learn</td>
+      <td>Python, OpenAI, LangChain, LangGraph</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
@@ -49,11 +49,11 @@ I blend analytical thinking with creative problem-solving to deliver robust digi
     </tr>
     <tr>
       <td><strong>Database</strong></td>
-      <td>PostgreSQL, Database Design, Optimization</td>
+      <td>PostgreSQL</td>
     </tr>
     <tr>
       <td><strong>DevOps & Tools</strong></td>
-      <td>Git, Linux, Docker, CI/CD Practices</td>
+      <td>Git, Linux,CI/CD Practices</td>
     </tr>
   </table>
 </div>
