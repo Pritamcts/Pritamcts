@@ -1,7 +1,7 @@
 # Hi there, I'm Pritam 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;AI+Enthusiast;React+Native+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="header_1.png" alt="Header Banner" />
 </div>
 
 <p align="center">
@@ -37,7 +37,7 @@ I blend analytical thinking with creative problem-solving to deliver robust digi
   <table>
     <tr>
       <td><strong>AI/ML Stack</strong></td>
-      <td>Python, OpenAI, LangChain, LangGraph</td>
+      <td>Python, OpenAI, LangChain, Scikit-learn</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
@@ -53,7 +53,7 @@ I blend analytical thinking with creative problem-solving to deliver robust digi
     </tr>
     <tr>
       <td><strong>DevOps & Tools</strong></td>
-      <td>Git, Linux,CI/CD Practices</td>
+      <td>Git, Linux, Docker, CI/CD Practices</td>
     </tr>
   </table>
 </div>
